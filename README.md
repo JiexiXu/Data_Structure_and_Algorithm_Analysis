@@ -1,9 +1,7 @@
 # Data_Structure_and_Algorithm_Analysis
 数据结构与算法实验代码，C语言实现。
 
-1、线性表的应用(The implementation of linear table）：线性表的基本结构和操作方法
-
-实验内容： 
+1、线性表的应用(The implementation of linear table）：线性表的基本结构和操作方法  实验内容： 
 键盘输入英语单词的个数n及n个单词，编写程序，建立一个单向链表，实现： 
 （1）如果单词重复出现，则只在链表上保留一个。
 （2）除满足（1）的要求外。链表结点还应有一个计数域，记录该单词重复出现的次数，然后输出出现次数最多的前k(k<=n，需键盘输入)个单词。
